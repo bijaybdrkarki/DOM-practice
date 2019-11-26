@@ -1,0 +1,6 @@
+.notfail{
+    display: none;
+}
+.fail{
+    display: block;
+}
